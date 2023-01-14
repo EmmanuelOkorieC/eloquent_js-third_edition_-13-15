@@ -1,5 +1,5 @@
 # Eloquent Javascript, 3rd Edition: A modern Introduction to programming
-An overview, with solutions and explanation of exercises in chapters thirteen to fifteen of the ebook Eloquent Javascript, 3rd Edition by Marijn Haverbeke
+An overview, with solutions and explanation of exercises in chapters thirteen to fifteen of the ebook [Eloquent Javascript, 3rd Edition](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) by Marijn Haverbeke
 
 ## Overview
 ### Chapter Thirteen: Javascript and The Browser
@@ -552,7 +552,7 @@ function increase(event) {
     }
 }
 ```
-You can view the result in the browser here!
+You can view the result in the browser [here!](https://chapter15balloon.netlify.app/)
 
 * 15.2 Mouse Trail
 
@@ -613,7 +613,7 @@ window.addEventListener('mousemove', event => {
 })
 ```
 And it worked!
-You can view the result in the browser here
+You can view the result in the browser [here](https://chapter15mousetrail.netlify.app/)
 
 * 15.3 Tabs
 
@@ -757,4 +757,4 @@ Then i modified the `check` function
 ```
 Styling the button follows the same approach from before. The second for loop iterates through the buttons in the `div` element. And if the one being iterated through(`select`) is the clicked button(`button`), It gets the class `selected` else it get's no class. 
 
-You can view the result in the browser here
+You can view the result in the browser [here](https://chapter15tabs.netlify.app/)
